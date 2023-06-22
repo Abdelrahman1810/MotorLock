@@ -27,7 +27,7 @@ MotorLock is an Arduino-based project that controls a DC motor using a keypad an
 4. If the password is incorrect, the LCD display will show the "Access denied" message and the motor will not run.
 
 ## Circuit Diagram
-
+you can replace LED with the component you want to lock I loked DC-Motor  
 [Circuit Diagram](https://github.com/Abdelrahman1810/MotorLock/blob/main/Circuit%20Diagram.png)
 
 ## Acknowledgements
