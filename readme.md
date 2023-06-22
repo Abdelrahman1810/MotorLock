@@ -28,7 +28,7 @@ MotorLock is an Arduino-based project that controls a DC motor using a keypad an
 
 ## Circuit Diagram
 
-![Circuit Diagram](Circuit Diagram.png)
+[Circuit Diagram](https://github.com/Abdelrahman1810/MotorLock/blob/main/Circuit%20Diagram.png)
 
 ## Acknowledgements
 
